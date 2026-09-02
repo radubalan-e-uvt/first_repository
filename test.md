@@ -3,6 +3,7 @@ Ingredients:
 - 1 lime
 - 2 tsp salt
 - jalapeno to taste
+- add butter
 
 Instructions:
 - cut and mash avocados
